@@ -1,0 +1,13 @@
+.hide{
+    display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url('./image/player.png') center / cover no-repeat;
+    /* background: url(./car.jpg);
+    background-position: center;
+    block-size: cover;
+    background-repeat: no-repeat; */
+}
